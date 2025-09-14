@@ -1,0 +1,9 @@
+GIT
+-En la rama principal se crea un Branch
+-el Branch es una rama, luego creas un clone
+-que es clonar el Branch, para trabajarlo con el add
+-add es agregar los archivos al staging Area para poder hacer el reset si se equivoco en algo 
+-luego el commit después de hacer las correcciones y pasar al repositorio para luego hacer el push pero el pull antes
+-el pull es para verificar si alguien mas realizo un cambio ya para envitar error 
+- 
+
